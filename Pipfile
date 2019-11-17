@@ -9,6 +9,7 @@ autopep8 = "*"
 [packages]
 requests = "*"
 folium = "*"
+panda = "*"
 
 [requires]
 python_version = "3.6"
